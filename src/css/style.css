@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body {
+  font-family: "Raleway", sans-serif !important;
+}
+main {
+  min-height: 90vh;
+}
+
+/*From Medium Screen*/
+@media (min-width: 576px) {
+  .page-content {
+    padding-top: 30px;
+  }
+}
+
+.about-img {
+  border-radius: 70%;
+  width: 300px;
+}
+
+.index-page {
+  height: 100vh;
+}
