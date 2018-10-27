@@ -13,7 +13,7 @@ class Projects extends Component {
         data.projects.map(function(project){
           return (
             <div className="col-sm-6 col-lg-4 mb-2">
-              <Card technoImg={+project.technologyImgSrc} title={project.title} desc={project.shortDescription} fulldesc={ project.description}  modalidnohash={project.modalId} modalid={'#'+project.modalId}/>
+              <Card technoImg={project.technologyImgSrc} title={project.title} desc={project.shortDescription } fulldesc={ project.description}  modalidnohash={project.modalId} modalid={'#'+project.modalId}/>
             
             </div>
           )

@@ -22,3 +22,22 @@ main {
 .index-page {
   height: 80vh;
 }
+
+.active{
+  border-bottom: 3px solid #41638c;
+}
+
+/*Modal Styling*/
+
+.modal{
+  border: 1px solid #41638c !important;
+}
+.modal-dialog{
+  min-width: 70% !important;
+}
+.modal-header{
+  color: #ffffff !important;
+  background-color: #41638c !important;
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}
