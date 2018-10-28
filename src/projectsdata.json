@@ -31,7 +31,7 @@
       "title": "Student Portfolio",
       "technologyImgSrc": "/images/react.jpg",
       "shortDescription": "Developed a responsive student portfolio to display skills in ReactJs with following User Experience principles and providing clean User Interface. ",
-      "description": "Created portfolio using ReactJs, Bootstrap 4, HTML5, CSS3 and also used several npm packages for providing clean UI. <br/><br/>  Designed logo using CorelDraw X8 and used Fireworks for generating graphics with good quality and less size for fast loading. <br/><br/> Entire projects data is displayed from a JSON file. This makes adding new projects to website easy. <br/><br/> The results are displayed in a responsive carousel view, adding 5 results in queue when the user clicks Next button.",
+      "description": "Created portfolio using ReactJs, Bootstrap 4, HTML5, CSS3 and also used several npm packages for providing clean UI. <br/><br/>  Designed vector logo using CorelDraw X8 and used Fireworks for generating graphics with good quality and less size for fast loading. <br/><br/> Entire projects data is displayed from a JSON file. This makes adding new projects to website easy. <br/><br/> Designed and developed in a way that beginners can use it as a template.",
       "technologies": "ReactJs, Bootstrap4, HTML5, CSS3",
       "modalId": "portfolio",
       "screenShots": "",

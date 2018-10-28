@@ -7,7 +7,7 @@ class Projects extends Component {
   render() {
     return (
     <React.Fragment>
-    <div className="container">
+    <div className="container page-content">
     <div className="row">
       {
         data.projects.map(function(project){

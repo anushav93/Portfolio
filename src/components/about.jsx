@@ -1,5 +1,6 @@
 import React from "react";
 import aboutImg from "../about-img.jpg";
+import { Link } from "react-router-dom";
 
 const About = () => {
   return (
@@ -31,6 +32,11 @@ const About = () => {
         </div>
         <div className="col-md-6 text-center">
           <img src={aboutImg} className="img img-fluid about-img " />
+        </div>
+        <div className="col-12 text-center">
+        <Link to="/Resume.pdf" target="_blank" className="btn btn-primary mt-5" >
+        View Resume
+      </Link>
         </div>
       </div>
     </div>

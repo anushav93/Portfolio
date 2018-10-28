@@ -4,7 +4,7 @@ body {
   font-family: "Raleway", sans-serif !important;
 }
 main {
-  min-height: 90vh;
+  min-height: 80vh;
 }
 
 /*From Medium Screen*/
@@ -25,6 +25,10 @@ main {
 
 .active{
   border-bottom: 3px solid #41638c;
+}
+
+.typing-effect{
+  min-height: 100px !important;
 }
 
 /*Modal Styling*/

@@ -5,6 +5,7 @@ import "./css/navbar.css";
 import "./css/style.css";
 import "./css/index.css";
 import "./css/buttons.css";
+import 'font-awesome/css/font-awesome.min.css';
 import NavBar from "./components/navbar";
 import Projects from "./components/projects";
 import About from "./components/about";
@@ -14,7 +15,9 @@ import IndexPage from "./components/index";
 import Footer from "./components/footer";
 
 class App extends Component {
+  
   render() {
+    
     return (
       <React.Fragment>
         <NavBar />
