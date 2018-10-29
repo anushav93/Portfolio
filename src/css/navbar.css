@@ -1,7 +1,10 @@
 .nav-link {
   letter-spacing: 2px;
 }
+@media(min-width:576px)
+{
 
-.navbar {
-  padding: 2.5rem 1rem !important;
+    .navbar {
+      padding: 1.5rem 1rem !important;
+    }
 }

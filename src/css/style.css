@@ -3,14 +3,18 @@
 body {
   font-family: "Raleway", sans-serif !important;
 }
+
 main {
-  min-height: 80vh;
+  min-height: 85vh;
 }
 
 /*From Medium Screen*/
 @media (min-width: 576px) {
   .page-content {
     padding-top: 30px;
+  }
+  main {
+    min-height: 80vh;
   }
 }
 
